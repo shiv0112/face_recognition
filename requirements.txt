@@ -1,0 +1,11 @@
+opencv-python
+mtcnn
+numpy
+ipykernel
+tensorflow
+matplotlib
+keras-facenet
+seaborn
+joblib
+tqdm
+scikit-learn
